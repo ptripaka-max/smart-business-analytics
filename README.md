@@ -108,4 +108,3 @@ The test suite covers column mapping, validation, financial formulas, date filte
 ## License
 
 Released under the [MIT License](LICENSE).
-
